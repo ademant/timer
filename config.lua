@@ -5,4 +5,4 @@ timer.prefix="timer:countdown"
 timer.player={}
 timer.dtime=0
 
---xpfw.register_attribute(timer.prefix,{min=0,max=math.huge,default=timer.countdown_default,hud=1})
+xpfw.register_attribute(timer.prefix,{min=0,max=math.huge,default=0,hud=1})

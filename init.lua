@@ -12,5 +12,6 @@ basic_functions.import_settingtype(timer.path .. "/settingtypes.txt")
 
 dofile(timer.path .. "/config.lua") -- API
 dofile(timer.path .. "/chat_commands.lua")
+dofile(timer.path .. "/register.lua")
 
 minetest.log("action", "[MOD]"..minetest.get_current_modname().." -- loaded ")
