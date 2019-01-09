@@ -1,0 +1,2 @@
+timer.precision (precision of the timer in real time seconds) float 1 
+timer.countdown_default (default value of countdown in seconds) float 120
