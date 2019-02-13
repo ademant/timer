@@ -1,7 +1,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 #Timer
 
-See license.txt for license information.
+Main repository:
+
+https://notabug.org/ademant/timer.git
+
+Mirrors:
+
+https://gitlab.com/ademant/timer.git
+
+https://github.com/ademant/timer.git
 
 ##Short description
 
